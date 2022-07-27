@@ -7,14 +7,20 @@ body, .padre1 {
 
 /* TITULO */
 .padre1, .navbar-expand-lg .bg-light {
-    background: linear-gradient(180deg, rgb(163, 141, 141) 66%, rgba(33, 33, 33, 1) 80%);
-    height: 450px;
+    background: linear-gradient(180deg, rgb(163, 141, 141) 6%, rgba(33, 33, 33, 1) 50%);
+    height: 300px;
 }
 
 /* BOTONES DE MENU */
 .padre2, .row {
     list-style: none;
 }
+
+.mb-3 {
+    height: 40px;
+    width: 340px;
+}
+
 
 .novedades, col {
     background-color: #A32020;
